@@ -6,3 +6,5 @@ CODING BRAY
 -CSS
 -css3
 -jqury
+-js
+-animation
