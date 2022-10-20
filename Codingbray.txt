@@ -5,5 +5,4 @@ CODING BRAY
 - fremwork ci
 -CSS
 -css3
--bootstrap 
 -jqury
